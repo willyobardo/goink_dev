@@ -1,0 +1,21 @@
+   {
+   "expo": {
+    "name": "GoInk",
+   "icon": "img/icons/icon.png",
+    "version": "1.0.0",
+    "slug": "goink",
+    "sdkVersion": "27.0.0",
+    "facebookScheme" : "fb247581699305354",
+    "facebookAppId" : "247581699305354",
+    "facebookDisplayName": "GoInk-App",
+    "ios": {
+      "bundleIdentifier": "br.kinterativa.testes.goink"
+    },
+    "android": {
+      "package": "br.kinterativa.testes.goink"
+    },
+    "splash": {
+      "image": "./img/splash.png"
+    }
+   }
+ }
